@@ -2,3 +2,8 @@ fastapi
 uvicorn
 pytest
 mongomock
+numpy
+lightgbm==3.2.1
+python-multipart
+scikit-learn
+httpx
