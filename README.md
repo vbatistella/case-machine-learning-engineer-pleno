@@ -46,10 +46,11 @@ This repository contains a **FastAPI** application for managing machine learning
 
 ## How to Run
 1. Install dependencies:
-   ```bash
-   make build
-   make run
-   ```
+
+```bash
+make build
+make run
+```
 
 or simply
 
